@@ -1,3 +1,5 @@
 site_name: Open Ag Development Collaborative
+site_url: http://openagdev.org
+repo_url: http://github.com/OpenAgDev/openagdev.org
 theme: readthedocs
 
