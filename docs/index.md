@@ -1,4 +1,4 @@
-# Gathering for Open Ag Tech
+# Gathering for Open Agricultural Technology
 
 ## The technologies that produce our food and the data about our food system should be public.
 
