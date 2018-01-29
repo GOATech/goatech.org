@@ -4,7 +4,15 @@
     
     <url>
      <loc>http://goatech.org/</loc>
-     <lastmod>2018-01-19</lastmod>
+     <lastmod>2018-01-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://goatech.org/about/</loc>
+     <lastmod>2018-01-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
