@@ -1,3 +1,4 @@
+![GOAT](/img/goat-logo.png)
 
 ## Gathering for Open Agricultural Technology
 
