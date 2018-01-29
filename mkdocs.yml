@@ -1,5 +1,8 @@
 site_name: Gathering for Open Agricultural Technology
 site_url: http://goatech.org
 repo_url: http://github.com/GOATech/goatech.org
+pages:
+    - 'Home': 'index.md'
+    - 'About': 'about.md'
 theme: united
 
