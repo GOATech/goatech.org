@@ -4,7 +4,7 @@
     
     <url>
      <loc>http://goatech.org/</loc>
-     <lastmod>2018-01-30</lastmod>
+     <lastmod>2018-02-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,15 @@
     
     <url>
      <loc>http://goatech.org/about/</loc>
-     <lastmod>2018-01-30</lastmod>
+     <lastmod>2018-02-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://goatech.org/conference/</loc>
+     <lastmod>2018-02-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
      <loc>http://goatech.org/forum/</loc>
-     <lastmod>2018-01-30</lastmod>
+     <lastmod>2018-02-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

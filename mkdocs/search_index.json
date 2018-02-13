@@ -2,23 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Gathering for Open Agricultural Technology\n\n\nA conference in Spring 2018. For more information, read \nabout GOAT\n.\n\n\nNewsletter\n\n\nSign up for the GOAT newsletter to stay up-to-date on conference developments.\n\n\n\n\n\n\n\n\n    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }\n    /<em> Add your own MailChimp form style overrides in your site stylesheet or in this style block.\n       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. </em>/\n\n\n\n\n\n\n    \n\n    \n\n\n\n    \nEmail Address \n\n    \n\n\n\n    \n\n        \n\n        \n\n    \n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\n(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);\n\n\n\n\nApplications\n\n\nApplication for the conference will be available soon - subscribe to the\nnewsletter for updates.", 
+            "text": "Gathering for Open Agricultural Technology\n\n\nA conference in Spring 2018. For more information, read \nabout GOAT\n,\nand the \n2018 GOAT Conference\n.\n\n\nNewsletter\n\n\nSign up for the GOAT newsletter to stay up-to-date on conference developments.\n\n\n\n\n\n\n\n\n    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }\n    /<em> Add your own MailChimp form style overrides in your site stylesheet or in this style block.\n       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. </em>/\n\n\n\n\n\n\n    \n\n    \n\n\n\n    \nEmail Address \n\n    \n\n\n\n    \n\n        \n\n        \n\n    \n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\n(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);", 
             "title": "Home"
         }, 
         {
             "location": "/#gathering-for-open-agricultural-technology", 
-            "text": "A conference in Spring 2018. For more information, read  about GOAT .", 
+            "text": "A conference in Spring 2018. For more information, read  about GOAT ,\nand the  2018 GOAT Conference .", 
             "title": "Gathering for Open Agricultural Technology"
         }, 
         {
             "location": "/#newsletter", 
             "text": "Sign up for the GOAT newsletter to stay up-to-date on conference developments.    \n    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }\n    /<em> Add your own MailChimp form style overrides in your site stylesheet or in this style block.\n       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. </em>/", 
             "title": "Newsletter"
-        }, 
-        {
-            "location": "/#applications", 
-            "text": "Application for the conference will be available soon - subscribe to the\nnewsletter for updates.", 
-            "title": "Applications"
         }, 
         {
             "location": "/about/", 
@@ -34,6 +29,46 @@
             "location": "/about/#goals", 
             "text": "Coordinate existing development  - there are many organizations working on open ag software and hardware today with overlapping interests. Let\u2019s get together! Let\u2019s talk about building software together BEFORE we spend time and money, not after!  Invite new development  - Let\u2019s make a place where newcomers can easily find developers and users with overlapping experiences. People evaluating open vs closed ag software/hardware should find a thriving, engaged community which can make their work easier, faster, and better.  Aligning technology and actual users  - Finding people to try, test, break, and give feedback on new technology is hard but critically important to making technology relevant and useful. By bringing users and developers together with open lines of communication, we can increase the utility of open technology in ag across the board.  Creating a GOAT Roadmap  - If we collectively have a plan, then we can all contribute more effectively. Let\u2019s reduce duplication of efforts, focus on common areas we all need, and put the effort of contributors into a broader context for funders so they can see the big picture.", 
             "title": "Goals"
+        }, 
+        {
+            "location": "/conference/", 
+            "text": "2018 Gathering for Open Ag Tech\n\n\n\n\nA 3 day gathering of diverse developers and users of open ag technology.\n\nApply now!\n\n\nWhy?\n\n\nThough food is made by private companies, information about our food system\nshould be a public good. Unfortunately, that is not the case.\n\n\nTraditional ag and venture-funded startups are realizing that controlling data,\nnot just machines or sensors, is the most valuable game in town. Fortunately,\nothers are creating open source hardware and software to make the benefits of\nshared data available to all. Though the number of projects is growing, they\ntend to be small, isolated within universities or small companies, and\ndisconnected from one another. The result is duplication of efforts, hard to\nfind projects, and disconnected parts producing incompatible data. The lack of\ncoordination means that as technology rapidly changes, closed-source companies\nare locking up the machinery, sensors, data, and varieties of the future.\n\n\nThe gathering will bring together the nascent open ag tech community to meet,\nlearn, share, and establish a common vision for creating open technologies for\nour food system.\n\n\nWhen?\n\n\n\n\nApplications closed\n - Feb 28, 2018\n\n\nFull program available\n - March 31, 2018\n\n\nConference\n - Mon - Weds, May 7 - May 9th, 2018\n\n\n\n\nWhere?\n\n\nThe 2018 conference will be held at the beautiful\n\nOmega Institute\n, an hour and a half train\nride north of New York City. Arrive via NYC airports and take the train or rent\na car, or it is within driving distance of most of North East.\n\n\n\n\nThe Omega Institute\n\n\n150 Lake Dr\n\n\nRhinebeck, NY 12572\n\n\n\n\n\n\n\n\n\nWho should apply?\n\n\nWe are looking for anyone actively involved in developing and using open\ntechnologies in agriculture. Specifically, we are looking for developers\n(programmers, engineers, designers, etc.) and active users (practitioners,\nfarmers, researchers, etc.) of technology. Technology is broadly defined, and\nincludes both traditional hardware and software, but also mechanical tools\n(tractors, implements, etc.) and any domains relating to the creation of that\nhardware (intellectual property + open licenses, data management, model\ndevelopment, etc.)\n\n\nWhile we are accepting applications from outside North America, we cannot\nprovide extensive support for complex visa applications. Be aware that you are\nresponsible for paperwork related to getting to the US if accepted. We hope to\nmake the conference more international in the future as we have more organizers\nand more funding.\n\n\nWhat is the cost?\n\n\nThe conference itself is free if your application is accepted. We have funding\nfor travel and lodging for those who cannot afford it. Specify your funding\nneeds on the\n\napplication form\n.\n\n\nCan I get involved before the conference?\n\n\nYes! Go to the forum at \nforum.goatech.org\n and post\nyour questions. You can also find discussions around GOAT and related groups in\nthe open ag space, so definitely check it out.\n\n\nAlso, if you have ideas or suggestions on programming (speakers, activities,\nnearby locations to visit, etc.) that you think are a great fit, please post\nabout it! We are still actively setting the program and activities.", 
+            "title": "Conference"
+        }, 
+        {
+            "location": "/conference/#2018-gathering-for-open-ag-tech", 
+            "text": "A 3 day gathering of diverse developers and users of open ag technology. Apply now!", 
+            "title": "2018 Gathering for Open Ag Tech"
+        }, 
+        {
+            "location": "/conference/#why", 
+            "text": "Though food is made by private companies, information about our food system\nshould be a public good. Unfortunately, that is not the case.  Traditional ag and venture-funded startups are realizing that controlling data,\nnot just machines or sensors, is the most valuable game in town. Fortunately,\nothers are creating open source hardware and software to make the benefits of\nshared data available to all. Though the number of projects is growing, they\ntend to be small, isolated within universities or small companies, and\ndisconnected from one another. The result is duplication of efforts, hard to\nfind projects, and disconnected parts producing incompatible data. The lack of\ncoordination means that as technology rapidly changes, closed-source companies\nare locking up the machinery, sensors, data, and varieties of the future.  The gathering will bring together the nascent open ag tech community to meet,\nlearn, share, and establish a common vision for creating open technologies for\nour food system.", 
+            "title": "Why?"
+        }, 
+        {
+            "location": "/conference/#when", 
+            "text": "Applications closed  - Feb 28, 2018  Full program available  - March 31, 2018  Conference  - Mon - Weds, May 7 - May 9th, 2018", 
+            "title": "When?"
+        }, 
+        {
+            "location": "/conference/#where", 
+            "text": "The 2018 conference will be held at the beautiful Omega Institute , an hour and a half train\nride north of New York City. Arrive via NYC airports and take the train or rent\na car, or it is within driving distance of most of North East.   The Omega Institute  150 Lake Dr  Rhinebeck, NY 12572", 
+            "title": "Where?"
+        }, 
+        {
+            "location": "/conference/#who-should-apply", 
+            "text": "We are looking for anyone actively involved in developing and using open\ntechnologies in agriculture. Specifically, we are looking for developers\n(programmers, engineers, designers, etc.) and active users (practitioners,\nfarmers, researchers, etc.) of technology. Technology is broadly defined, and\nincludes both traditional hardware and software, but also mechanical tools\n(tractors, implements, etc.) and any domains relating to the creation of that\nhardware (intellectual property + open licenses, data management, model\ndevelopment, etc.)  While we are accepting applications from outside North America, we cannot\nprovide extensive support for complex visa applications. Be aware that you are\nresponsible for paperwork related to getting to the US if accepted. We hope to\nmake the conference more international in the future as we have more organizers\nand more funding.", 
+            "title": "Who should apply?"
+        }, 
+        {
+            "location": "/conference/#what-is-the-cost", 
+            "text": "The conference itself is free if your application is accepted. We have funding\nfor travel and lodging for those who cannot afford it. Specify your funding\nneeds on the application form .", 
+            "title": "What is the cost?"
+        }, 
+        {
+            "location": "/conference/#can-i-get-involved-before-the-conference", 
+            "text": "Yes! Go to the forum at  forum.goatech.org  and post\nyour questions. You can also find discussions around GOAT and related groups in\nthe open ag space, so definitely check it out.  Also, if you have ideas or suggestions on programming (speakers, activities,\nnearby locations to visit, etc.) that you think are a great fit, please post\nabout it! We are still actively setting the program and activities.", 
+            "title": "Can I get involved before the conference?"
         }, 
         {
             "location": "/forum/", 
