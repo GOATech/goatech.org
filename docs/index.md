@@ -2,7 +2,8 @@
 
 ## Gathering for Open Agricultural Technology
 
-A conference in Spring 2018. For more information, read [about GOAT](/about).
+A conference in Spring 2018. For more information, read [about GOAT](/about),
+and the [2018 GOAT Conference](/conference).
 
 ### Newsletter
 

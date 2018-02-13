@@ -4,6 +4,7 @@ repo_url: http://github.com/GOATech/goatech.org
 pages:
     - 'Home': 'index.md'
     - 'About': 'about.md'
+    - 'Conference': 'conference.md'
     - 'Forum': 'forum.md'
 theme: united
 
