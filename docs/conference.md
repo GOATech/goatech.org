@@ -7,7 +7,7 @@
 
 ## Why?
 
-Information about our food system should be public. Unfortunately, that is often not the case. Food is currently produced by a mix of private and public entities, and information about our food system can be opaque, hard-to-find, or proprietary and farmers may have limited control of the on-farm data they generate or ability to improve the tools they use.  
+Information about our food system should be public or easy-to-share. Unfortunately, that is often not the case. Food is currently produced by a mix of private and public entities, and information about our food system can be opaque, hard-to-find, or proprietary and farmers may have limited control of the on-farm data they generate or ability to improve the tools they use.  
 
 Agricultural startups are often venture-funded, with interest veering toward capitalizing on farm data. Controlling such data, not just machines or sensors, is considered the most valuable game in town (at least in the short term). Closed data ecosystems hinder our ability to produce food equitably and sustainably and support farm level decision support. 
 
