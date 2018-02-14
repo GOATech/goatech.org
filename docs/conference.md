@@ -7,18 +7,11 @@
 
 ## Why?
 
-Though food is made by private companies, information about our food system
-should be a public good. Unfortunately, that is not the case.
+Information about our food system should be public. Unfortunately, that is often not the case. Food is currently produced by a mix of private and public entities, and information about our food system can be opaque, hard-to-find, or proprietary and farmers may have limited control of the on-farm data they generate or ability to improve the tools they use.  
 
-Traditional ag and venture-funded startups are realizing that controlling data,
-not just machines or sensors, is the most valuable game in town. Fortunately,
-others are creating open source hardware and software to make the benefits of
-shared data available to all. Though the number of projects is growing, they
-tend to be small, isolated within universities or small companies, and
-disconnected from one another. The result is duplication of efforts, hard to
-find projects, and disconnected parts producing incompatible data. The lack of
-coordination means that as technology rapidly changes, closed-source companies
-are locking up the machinery, sensors, data, and varieties of the future.
+Agricultural startups are often venture-funded, with interest veering toward capitalizing on farm data. Controlling such data, not just machines or sensors, is considered the most valuable game in town (at least in the short term). Closed data ecosystems hinder our ability to produce food equitably and sustainably and support farm level decision support. 
+
+Fortunately, there is also significant interest in creating open source hardware and software to increase transparency in the food chain, allow for data sharing among groups, and engage the public and make the benefits of shared data available to all. Though the number of projects is growing, they tend to be small, isolated within universities or small companies, and disconnected from one another. The result is duplication of efforts, hard to find projects, and disconnected parts producing incompatible data.  The lack of coordination means that as technology rapidly changes, closed-source companies are locking up the machinery, sensors, data, and varieties of the future.  
 
 **The gathering will bring together the nascent open ag tech community to meet,
 learn, share, and establish a common vision for creating open technologies for
