@@ -19,7 +19,7 @@ our food system.**
 
 ## When?
 
-* **Applications closed** - Feb 28, 2018
+* **Applications closed** - March 20, 2018
 * **Full program available** - March 31, 2018
 * **Conference** - Mon - Weds, May 7 - May 9th, 2018
 
