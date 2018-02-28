@@ -6,7 +6,7 @@
 [APPLY HERE!](https://docs.google.com/forms/d/e/1FAIpQLSfpH0dwCXF-Db13v6xf8hGtPrMjlS5aLl6y3KJ3243zsHt4cA/viewform?usp=sf_link)*
 
 > The term goat rodeo refers to a chaotic event where many things must go right for the situation to work, a reference to the unusual and challenging aspects of blending classical and bluegrass music. Yo-Yo Ma described a goat rodeo, saying: 'If there were forks in the road and each time there was a fork, the right decision was made, then you get to a goat rodeo.' [4]
--- ![The Goat Rodeo Sessions](https://en.wikipedia.org/wiki/The_Goat_Rodeo_Sessions)
+-- [The Goat Rodeo Sessions](https://en.wikipedia.org/wiki/The_Goat_Rodeo_Sessions)
 
 ## Why?
 
