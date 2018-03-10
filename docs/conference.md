@@ -81,16 +81,15 @@ about it! We are still actively setting the program and activities.
 
 The organizing committee for GOAT 2018 is:
 
-Alix Contosta,
-Ankita Raturi, USDA Agricultural Research Service & North Carolina State University
-Chris Rowe, Life Cycle Learning
-Dan Kittredge, Bionutrient Food Association 
-David Forster, Bionutrient Food Association
-Don Blair, Edge Collective
-Dorn Cox, Wolfe's Neck Center for Agriculture and the Environment
-Greg Austic, Our Sci
-Michael Stenta, farmOS
+* Alix Contosta,
+* Ankita Raturi, USDA Agricultural Research Service & North Carolina State University
+* Chris Rowe, Life Cycle Learning
+* Dan Kittredge, Bionutrient Food Association 
+* David Forster, Bionutrient Food Association
+* Don Blair, Edge Collective
+* Dorn Cox, Wolfe's Neck Center for Agriculture and the Environment
+* Greg Austic, Our Sci
+* Michael Stenta, farmOS
 
 The Bionutrient Food Association is our primary sponsor, providing funding for the conference, as well as travel, as needed The Omega Institute is providing in-kind sponsorship in the for of both accommodation and meals. If you are interested in supporting or sponsoring GOAT 2018, please contact: goatech.org@gmail.com.
 
-## Tell your goats
