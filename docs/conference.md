@@ -91,5 +91,5 @@ The organizing committee for GOAT 2018 is:
 * Greg Austic, Our Sci
 * Michael Stenta, farmOS
 
-The Bionutrient Food Association is our primary sponsor, providing funding for the conference, as well as travel, as needed The Omega Institute is providing in-kind sponsorship in the for of both accommodation and meals. If you are interested in supporting or sponsoring GOAT 2018, please contact: goatech.org@gmail.com.
+The [Bionutrient Food Association](http://bionutrient.org/site/) is our primary sponsor, providing funding for the conference, as well as travel, as needed The [Omega Institute](https://www.eomega.org/rhinebeck) is providing in-kind sponsorship in the for of both accommodation and meals. If you are interested in supporting or sponsoring GOAT 2018, please contact: goatech.org@gmail.com.
 
