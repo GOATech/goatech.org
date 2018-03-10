@@ -12,7 +12,7 @@
 
 Information about our food system should be public or easy-to-share. Unfortunately, that is often not the case. Food is currently produced by a mix of private and public entities, and information about our food system can be opaque, hard-to-find, or proprietary and farmers may have limited control of the on-farm data they generate or ability to improve the tools they use.  
 
-Agricultural startups are often venture-funded, with interest veering toward capitalizing on farm data. Controlling such data, not just machines or sensors, is considered the most valuable game in town (at least in the short term). Closed data ecosystems hinder our ability to produce food equitably and sustainably and support farm level decision support. 
+Agricultural startups are often venture-funded, with interest veering toward capitalizing on farm data. Controlling such data, not just machines or sensors, is considered the most valuable game in town (at least in the short term). Closed data ecosystems hinder our ability to produce food equitably and sustainably and support farm level decision support.
 
 Fortunately, there is also significant interest in creating open source hardware and software to increase transparency in the food chain, allow for data sharing among groups, and engage the public and make the benefits of shared data available to all. Though the number of projects is growing, they tend to be small, isolated within universities or small companies, and disconnected from one another. The result is duplication of efforts, hard to find projects, and disconnected parts producing incompatible data.  The lack of coordination means that as technology rapidly changes, closed-source companies are locking up the machinery, sensors, data, and varieties of the future.  
 
@@ -73,7 +73,24 @@ Yes! Go to the forum at [forum.goatech.org](http://forum.goatech.org) and post
 your questions. You can also find discussions around GOAT and related groups in
 the open ag space, so definitely check it out.
 
-Also, if you have ideas or suggestions on programming (speakers, activities,
+If you have ideas or suggestions on programming (speakers, activities,
 nearby locations to visit, etc.) that you think are a great fit, please post
 about it! We are still actively setting the program and activities.
 
+## Who is organizing GOAT 2018?
+
+The organizing committee for GOAT 2018 is:
+
+Alix Contosta,
+Ankita Raturi, USDA Agricultural Research Service & North Carolina State University
+Chris Rowe, Life Cycle Learning
+Dan Kittredge, Bionutrient Food Association 
+David Forster, Bionutrient Food Association
+Don Blair, Edge Collective
+Dorn Cox, Wolfe's Neck Center for Agriculture and the Environment
+Greg Austic, Our Sci
+Michael Stenta, farmOS
+
+The Bionutrient Food Association is our primary sponsor, providing funding for the conference, as well as travel, as needed The Omega Institute is providing in-kind sponsorship in the for of both accommodation and meals. If you are interested in supporting or sponsoring GOAT 2018, please contact: goatech.org@gmail.com.
+
+## Tell your goats
