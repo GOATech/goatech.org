@@ -1,5 +1,7 @@
 # 2018 Gathering for Open Ag Tech
 
+### **Application deadline has been extended to March 28th! [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLSfpH0dwCXF-Db13v6xf8hGtPrMjlS5aLl6y3KJ3243zsHt4cA/viewform?usp=sf_link)**
+
 ![GOAT](/img/goat-logo.png)
 
 *A 3 day gathering of diverse developers and users of open ag technology.
@@ -22,7 +24,7 @@ our food system.**
 
 ## When?
 
-* **Applications close** - March 20, 2018
+* **Applications close** - March 28, 2018
 * **Full program available** - March 31, 2018
 * **Conference** - Mon - Weds, May 7 - May 9th, 2018
 
